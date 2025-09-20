@@ -1,4 +1,4 @@
-# Python
+# Python Project
 Employee Attrition Analysis and Prediction
 
 This project analyzes employee attrition patterns and builds predictive models to identify key factors influencing turnover. Using Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), I performed:
